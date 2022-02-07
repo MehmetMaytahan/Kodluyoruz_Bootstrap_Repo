@@ -1,0 +1,130 @@
+export const data = [
+  {
+    id: 1,
+    title:
+      "MSI MAG B550 Tomahawk AM4 DDR4 5100(OC) HDMI DP M.2 USB3.2 RGB ATX Anakart",
+    unitPrice: "2.317,61 TL",
+    unitInStock: 13,
+    url: "https://productimages.hepsiburada.net/s/40/550/10679392108594.jpg/format:webp",
+    type: "motherboard",
+  },
+  {
+    id: 2,
+    title:
+      "MSI MPG MPG B550 Gaming Edge Wifi AM4 DDR4 5100(OC) HDMI DP M.2 USB3.2 WIFI RGB ATX Anakart",
+    unitPrice: "2.269,93 TL",
+    unitInStock: 8,
+    url: "https://productimages.hepsiburada.net/s/40/550/10679392501810.jpg/format:webp",
+    type: "motherboard",
+  },
+  {
+    id: 3,
+    title:
+      "Asus TUF Gaming B550-Plus (Wi-fi) Amd B550 DDR4 4800 MHz (OC) Am4 AX Wifi + Bt Atx Anakart",
+    unitPrice: "2.776,72 TL",
+    unitInStock: 3,
+    url: "https://productimages.hepsiburada.net/s/50/550/11016075935794.jpg/format:webp",
+    type: "motherboard",
+  },
+  {
+    id: 4,
+    title:
+      "MSI X570-A PRO AM4 DDR4 4400 mhz (Oc) 2 x M.2 USB 3.2 HDMI ATX Anakart",
+    unitPrice: "1.674,40 TL",
+    unitInStock: 7,
+    url: "https://productimages.hepsiburada.net/s/29/550/10257752850482.jpg/format:webp",
+    type: "motherboard",
+  },
+  {
+    id: 5,
+    title:
+      "Msı Mag B560 Tomahawk Wi-Fi 3200 Ddr4 LGA1200 M2X4 Usb3.2x4 Anakart",
+    unitPrice: "2.254,66 TL",
+    unitInStock: 1,
+    url: "https://productimages.hepsiburada.net/s/104/550/110000047198572.jpg/format:webp",
+    type: "motherboard",
+  },
+
+  {
+    id: 6,
+    title: "AMD Ryzen 7 5800X 3.8GHz 36MB Cache Soket AM4 İşlemci",
+    unitPrice: "6.399,00 TL",
+    unitInStock: 28,
+    url: "https://productimages.hepsiburada.net/s/48/550/10940073672754.jpg/format:webp",
+    type: "cpu",
+  },
+  {
+    id: 7,
+    title: "Intel Core i9 11900 2.5GHz 1200 Pin 16 MB Cache İşlemci",
+    unitPrice: "7.999,00 TL",
+    unitInStock: 17,
+    url: "https://productimages.hepsiburada.net/s/79/550/110000021473913.jpg/format:webp",
+    type: "cpu",
+  },
+  {
+    id: 8,
+    title: "AMD Ryzen 9 5900X 4.8GHz 12C / 24T 64MB Cache Soket AM4 İşlemci",
+    unitPrice: "9.119,99 TL",
+    unitInStock: 4,
+    url: "https://productimages.hepsiburada.net/s/50/550/11022610989106.jpg/format:webp",
+    type: "cpu",
+  },
+  {
+    id: 9,
+    title:
+      "Intel Core i9 10980XE Extreme Edition 3.0GHz LGA2066 24.75MB Cache Işlemci",
+    unitPrice: "9.512,85 TL",
+    unitInStock: 7,
+    url: "https://productimages.hepsiburada.net/s/145/550/110000099708629.jpg/format:webp",
+    type: "cpu",
+  },
+  {
+    id: 10,
+    title: "Intel Core i7 10700KF 3.8GHz LGA1200 12MB Cache İşlemci",
+    unitPrice: "6.225,69 TL",
+    unitInStock: 21,
+    url: "https://productimages.hepsiburada.net/s/42/550/10731602182194.jpg/format:webp",
+    type: "cpu",
+  },
+  {
+    id: 11,
+    title: "G.Skill Trident Z RGB 16GB (2x8GB) DDR4 4000Mhz CL18 1.35V Ram",
+    unitPrice: "3.029,00 TL",
+    unitInStock: 7,
+    url: "https://productimages.hepsiburada.net/s/40/550/10665867739186.jpg/format:webp",
+    type: "ram",
+  },
+  {
+    id: 12,
+    title: "Corsair Dominator 16GB(2x8GB) 4000MHz DDR4 Ram",
+    unitPrice: "7.016,00 TL",
+    unitInStock: 19,
+    url: "https://productimages.hepsiburada.net/s/42/550/10740068745266.jpg/format:webp",
+    type: "ram",
+  },
+  {
+    id: 13,
+    title: "Thermaltake Toughram 16GB (2x8GB) 4000MHz DDR4 Ram",
+    unitPrice: "3.427,70 TL",
+    unitInStock: 9,
+    url: "https://productimages.hepsiburada.net/s/36/550/10509688078386.jpg/format:webp",
+    type: "ram",
+  },
+  {
+    id: 14,
+    title:
+      "Corsair Dominator Platinium Black RGB 16GB(2X8GB) DDR4 4000MHz CL19 Ram",
+    unitPrice: "2.757,02 TL",
+    unitInStock: 3,
+    url: "https://productimages.hepsiburada.net/s/37/550/10575385460786.jpg/format:webp",
+    type: "ram",
+  },
+  {
+    id: 15,
+    title: "Galax Hof Oc Lab Aurora Iı 16GB Kit (2X8GB) 4000MHZ Ddr4 Ram",
+    unitPrice: "3.075,45 TL",
+    unitInStock: 21,
+    url: "https://productimages.hepsiburada.net/s/149/550/110000104097538.jpg/format:webp",
+    type: "ram",
+  },
+];
